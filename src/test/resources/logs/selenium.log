@@ -1,0 +1,13 @@
+22:53:33,223 DEBUG Page:61 - config file loaded!!
+22:53:33,227 DEBUG Page:75 - OR file loaded!!
+22:53:33,229 DEBUG Page:95 - chrome launched!!
+22:53:49,788 DEBUG Page:111 - Navigated to : http://www.zoho.com
+22:54:01,559 DEBUG Page:136 - Clicking on an Element : loginlink_CSS
+22:54:01,841 DEBUG Page:149 - Typing in an Element : email_ID Entered value as : tahseenkhanit@gmail.com
+22:54:01,959 DEBUG Page:136 - Clicking on an Element : button1_ID
+22:54:02,182 DEBUG Page:149 - Typing in an Element : password_ID Entered value as : zoho4645
+22:54:02,259 DEBUG Page:136 - Clicking on an Element : button2_ID
+22:55:11,996 DEBUG Page:136 - Clicking on an Element : crmlink_CSS
+22:55:12,226 DEBUG Page:136 - Clicking on an Element : accounttab_CSS
+22:55:15,150 DEBUG Page:136 - Clicking on an Element : createaccountbtn_CSS
+22:55:16,860 DEBUG Page:149 - Typing in an Element : accountname_ID Entered value as : Tahsu
